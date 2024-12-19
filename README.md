@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working in Vilora Technologies<br>I'm looking to collaborate on Website<br>I'm Currently Learning React and Angular<br><br>
+I'm Professional Software Engineer<br>I'm Currently Working in Vilora Technologies<br>I'm looking to collaborate on Website<br>I'm Currently Learning React and Angular<br><br>
 
 
 ## 🌐 Socials:
