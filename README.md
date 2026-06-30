@@ -67,14 +67,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=C#,NodeJs,JavaScript,Mvc.Net,.NetCore,Java" />
+ <img src="https://skillicons.dev/icons?i=c#,nodens,javascript,mvc.net,.netcore,java,c" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=TypeScript,NextJs,ReactJs,Tailwind,SweetAlert,Bootstrap,Scss,ExpressJs," />
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,reactjs,tailwind,sweetalert,bootstrap,scss,expressjs," />
 </td>
 
 
@@ -83,7 +83,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,microsoftsqlserver,mysql,postgresql" />
 <br/><br/>
 
 </td>
