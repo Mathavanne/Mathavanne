@@ -16,10 +16,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍_Pondicherry-1e1e2e?style=for-the-badge" />
     <a href="mailto:mady.9u@gmail.com"><img src="https://img.shields.io/badge/📧mady.9u@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <!-- <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" /> -->
-    <!-- <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" /> -->
+
   </p>
 
 <h3>🌐 Socials</h3>
@@ -68,14 +67,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,c#,nodejs,mvc.net" />
+ <img src="https://skillicons.dev/icons?i=C#,NodeJs,JavaScript,Mvc.Net,.NetCore,Java" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=TypeScript,NextJs,ReactJs,Tailwind,SweetAlert,Bootstrap,Scss,ExpressJs," />
 </td>
 
 
